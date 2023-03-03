@@ -1,0 +1,13 @@
+@media only screen and (max-width: 600px) {
+    .navbar_container {
+        display: flex;
+        flex-direction: column;
+    }
+    .Contact_Button {
+        margin-bottom: 1rem;
+    }
+    .cards_container {
+        display: flex;
+        flex-direction: column;
+    }
+  }
